@@ -1,0 +1,23 @@
+[33mcommit d569b968c946ba151b3c290d85a08a5ad354d8d2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mbranch_test[m[33m)[m
+Author: neo <nectarous12@gmail.com>
+Date:   Sun Jun 6 17:36:30 2021 +0900
+
+    branch test2
+
+[33mcommit 3f931592fe84c09ed3749279b39727fb846d836c[m[33m ([m[1;31morigin/branch_test[m[33m)[m
+Author: neo <nectarous12@gmail.com>
+Date:   Fri Jun 4 22:59:04 2021 +0900
+
+    branch test
+
+[33mcommit 461f5e81fdb08753d072a9b6ac5c917a6cd7c6e3[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: neo <nectarous12@gmail.com>
+Date:   Fri Jun 4 22:50:23 2021 +0900
+
+    second test
+
+[33mcommit 8988c7485bbfdda2f3baa4cd762d45d5270f13b3[m
+Author: neo <nectarous12@gmail.com>
+Date:   Fri Jun 4 22:42:36 2021 +0900
+
+    first test
